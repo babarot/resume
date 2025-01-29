@@ -11,4 +11,4 @@ minima:
   social_links:
   - { platform: github, user_url: "https://github.com/babarot" }
   - { platform: blog, user_url: "https://tellme.tokyo" }
-  - { platform: sd, user_url: "https://speakerdec.com/babarot" }
+  - { platform: sd, user_url: "https://speakerdeck.com/babarot" }
