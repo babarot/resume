@@ -12,7 +12,9 @@ permalink: /
 
 ## Work / 職歴
 
-### 2022 - 現在 株式会社10X
+### 株式会社10X
+
+2022 - 現在
 
 - Datadog導入
 - 入社初期の取り組み
@@ -23,7 +25,9 @@ permalink: /
 - Deny policiesの導入
 - Terraform Planの権限修正
 
-### 2016 - 2021 株式会社10X
+### 株式会社メルカリ
+
+2016 - 2021
 
 ## Education / 学歴
 
