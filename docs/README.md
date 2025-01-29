@@ -6,13 +6,11 @@ permalink: /
 
 # Masaki ISHIYAMA
 
-![](https://www.gravatar.com/avatar/8238c3c0be55b887aa9d6d59bfefa504)
+![](https://www.gravatar.com/avatar/8238c3c0be55b887aa9d6d59bfefa504) SREを経て
 
-## Education / 学歴
-
-- 2012 - 2016
-    - 大学
-
+説明
+説明
+説明
 
 ## Work / 職歴
 
@@ -20,3 +18,11 @@ permalink: /
     - 株式会社10X
 - 2016 - 2021
     - 株式会社メルカリ
+
+## Education / 学歴
+
+- 2012 - 2016
+    - 大学
+
+
+## Publication
