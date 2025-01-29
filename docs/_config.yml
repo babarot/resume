@@ -1,0 +1,8 @@
+title: CV
+google_analytics: ""
+remote_theme: jekyll/minima
+author:
+  name: masaki ishiyama
+  email: ""
+plugins:
+  - jekyll-remote-theme
